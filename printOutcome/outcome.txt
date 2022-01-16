@@ -1,0 +1,164 @@
+cluster 0: 
+articles: thirtysomething scientists unveil doomsday clock hair loss
+dem rep totally nails congress falling short gender racial equality
+eat veggies deliciously different recipes
+inclement weather prevents liar getting work
+mother comes pretty close using word streaming correctly
+white inheritance
+ways file taxes stress
+richard branson global warming donation nearly cost failed balloon trips
+shadow government getting large meet marriott conference room
+lots parents know scenario
+lesbian considered father indiana amazing
+amanda peet told daughter sex special hug
+know regarding current treatments ebola
+chris christie suggests hillary clinton blame boko haram kidnapping hundreds schoolgirls
+area boy enters jumping touching tops doorways phase
+area man does traveling gurney
+leave person disabilities
+lin manuel miranda like remind phone away
+journalists killed targeting international press rises
+guard video game strict orders repeatedly pace stretch hallway
+outliers: 
+thirtysomething scientists unveil doomsday clock hair loss
+dem rep totally nails congress falling short gender racial equality
+eat veggies deliciously different recipes
+inclement weather prevents liar getting work
+mother comes pretty close using word streaming correctly
+white inheritance
+ways file taxes stress
+richard branson global warming donation nearly cost failed balloon trips
+shadow government getting large meet marriott conference room
+lots parents know scenario
+
+ 
+cluster 1: 
+articles: uber ceo travis kalanick stepping trump economic advisory council
+police say woman story attack men wearing trump hat update
+texas republicans urge trump style immigration crackdown
+donald trump latest attempt repeal obamacare makes seth meyers sick
+biting argument trump cost man ear
+exclusive promo hints stephen colbert unleash trump live election
+rnc leader trump tone
+russell simmons wants trump win gop nomination
+rick perry donald trump proposed border wall
+rubio cruz anti lgbt advisory boards trump
+trump regrets choosing kavanaugh supreme court nominee keeps talking respects women
+chris christie says trump immigration order rollout terrible
+man says salutes donald trump cardboard cutout day
+joe biden slams donald trump loved stalin
+donald trump picks dow chemical andrew liveris head american manufacturing council
+cnn taunts trump gop schoolhouse rock
+trump tailspin
+donald trump vows travel ban supreme court
+mysterious man parking lot threatens harm rudy giuliani blabs trump legal payments
+restaurant just sued trump hotel unfair competition
+outliers: 
+
+ 
+cluster 2: 
+articles: ford develops new suv runs purely gasoline
+new orange era growing divide
+new york introduces shoe sharing program city pedestrians
+new google project delivers critical info refugees smartphones
+new history textbook makes hatred history come alive students
+fender releases new hybrid gas electric guitar
+banksy returns new york city trademark rats
+arizona iced tea unveils new foot tall cans
+new rule obama punish contractors cheat endanger workers
+director hbo new james foley documentary making movie childhood pal
+new iowa poll finds majority democrats vote candidate named bobby cheeseburger
+new anti drug program teaches teens resist psychiatrist constant pressure use drugs
+way tv character actually afford big new york city coffee mug
+elizabeth warren new chat lets banks avoid regulation wink nod
+woman pill years thinking switching new set debilitating effects
+mom learns new vegetable
+credit card points aren new miles
+samsung iphone owners new galaxy phone try
+listen lana del rey new single honeymoon
+fbi shuts prominent new isis recruitment website
+outliers: 
+
+ 
+cluster 3: 
+articles: hackers target russian olympic whistleblower world anti doping agency says
+astronaut tim peake completes london marathon space sets world record
+merkel calls open world won populism
+drag superstars searching world drag supermonster
+sing optimistic song world
+tarsiers world smallest primate animal planet looney
+james corden melania longs world little mermaid spoof
+cindy gallop redefining future sex impacting world
+hasbro concedes world ready rubik chicken
+stunt biker danny macaskill turns scotland world incredible obstacle course
+lego backpacker instagrams world country time
+real reason silicon valley world elusive tourist attraction
+miley cyrus liam hemsworth smooch nye world notices
+look world cup star attacked giant bug
+fusion summit gather youth leaders protest movements world
+ugliest american thinkers world weigh trump rise
+offer tax incentives companies openly make world worse turn
+global meditation world peace december
+mothers world dying let hashtag
+nia long film tv look like world live
+outliers: 
+
+ 
+cluster 4: 
+articles: jay inslee smashes wall town hall solar powered mech suit announce climate change plan
+alexa google home record say happens data
+shipwreck survivors forced endure ride home disney cruise ship
+thing need positive change
+mike pence training vice presidential debate hitting punching bag climate change study taped
+loyal dog waits patiently days owner come home
+bruno mars takes home coveted threatening artist award grammys
+time act says yellowing climate change report sitting university archive
+grandma hangs spend christmas nursing home staff
+gop confirmation lynch won change obama
+boy scouts unveils historic change girls join youth programs
+climate researchers warn hope humanity lies possibility making
+visit home reveals parents currently watching previously undiscovered game
+women does change cable news host
+healer discovered galen comes home
+cell phone user promises girlfriend entire post office ll try change
+weekly roundup ebay vintage home finds
+charles koch wants change america criminal justice
+tank operator wishes buddies home
+clean air safe climate future
+outliers: 
+
+ 
+cluster 5: 
+articles: report bridge probably mess bats
+report make stop
+report majority instances people getting lives track occur immediately visit buffalo wild wings
+report trump endorsements staring bedroom ceiling hours
+decades effort chemists overseas report nano breakthrough
+asu gsv report teachers tech tools
+chilling report details myanmar horrific campaign rohingya minority
+report air ducts contains person looking listening
+report heaven population just assholes begged forgiveness second
+report mom sending
+report whoa person treadmill ran miles
+report nation granite engraved names victims
+report new handmaid tale season focuses dangers feminism run amok
+report north korea just enjoys nuclear talks
+report getting massages airports apparently certain people lives
+report unclear opposition sector american society effect healthcare passing
+report average american consuming ounces cheese right
+report jessica milly
+report white castle wants make friends
+report consumers spend billion year saying gimme
+outliers: 
+report white castle wants make friends
+report don make money don click fucking link
+report strongest human relationships emerge bashing friend couldn make
+report bots make twitter executives
+report suzy qs make gas station parking lots
+report majority money donated church doesn make god
+report americans watching television make worthwhile contribution small talk
+millennials donated charity year stop calling selfish report
+report selected make purchase onion store
+report purchasing items onion store important way stop help donald trump
+
+ 
